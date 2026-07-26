@@ -1,0 +1,10 @@
+{
+  "description": "Create a professional, mobile-responsive portfolio website showcasing personal details, resume, and an enhanced image, tailored for frontend developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
